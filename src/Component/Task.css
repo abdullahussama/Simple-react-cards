@@ -1,0 +1,77 @@
+body{
+    background-color: antiquewhite;
+}
+.abdullah{
+    text-align: center;
+    color: #143d59;
+}
+.Copyright{
+    margin-left: 245px;
+    width: 90px;
+}
+.Copyright h6{
+    color: #143d59;
+    width: 95px;
+}
+.big{
+    width: auto;
+    height: auto;
+    text-align: center;
+    /* border-color: #143d59;
+    border-style: solid; */
+}
+.gparent{
+    display: inline-block;
+    width: 354px;
+    height: auto;
+    margin-left: 20px;
+}
+
+.done{
+    display: flex;
+    height: 250px;
+    width: 351px;
+    border-radius: 10px;
+}
+
+.done img{
+    height: auto;
+    width: 351px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.dtwo{
+    display: flex;
+    height: auto;
+    width: 351px;    
+    padding-bottom: 10px;
+    background-color:black ;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    /*#143d59
+    #28282B*/
+}
+.dtwo div h2{
+    color: #f4b41a;
+    text-decoration: solid;
+    text-align: center;
+    font-weight: bold;
+}
+
+.dtwo div p{
+    text-align: justify;
+    color: #f4b41a;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: auto;
+}
+
+.dtwo div a{
+    text-decoration: none;
+    color: antiquewhite;
+    
+}
+.dtwo div a:hover{
+    color: #f4b41a;
+}
